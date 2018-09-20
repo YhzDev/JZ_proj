@@ -1,0 +1,54 @@
+{
+  "code" : 200,
+  "data" : {
+    "address" : "三亚海棠湾天房洲际酒店，包吃包接送",
+    "area" : "海棠湾",
+    "area_id" : "3",
+    "begin_time" : 1536465600,
+    "browse_count" : 440,
+    "bus_type" : true,
+    "city_id" : "0899",
+    "contact_name" : "",
+    "contact_phone" : 18217913520,
+    "content" : "宴会厅服务员，负责摆台收餐擦杯子叠毛巾，包中餐晚餐包接送\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "count" : 0,
+    "createTime" : 1536208714,
+    "end_date" : 1536508800,
+    "end_time" : 1536512400,
+    "head_img_url" : "http://7xlell.com2.z0.glb.qiniucdn.com/android_0_1512315115554",
+    "id" : 1037560664651862016,
+    "job_image" : "http://v3.jianguojob.com/logo.png",
+    "job_name" : "9月9日海棠湾天房洲际酒店",
+    "join_status" : 0,
+    "label" : [
+      "null"
+    ],
+    "label_name" : [],
+    "limit_sex" : 1,
+    "limits" : [
+      "null"
+    ],
+    "limits_name" : [],
+    "mode" : 2,
+    "mode_name" : "日结",
+    "money" : 150,
+    "permissions" : 1,
+    "require" : "不要染发烫发明显的，不要留胡须，不要长指甲的，\n发短信学校姓名号码，日期部门至18217913520（微信同步）",
+    "set_place" : "热带海洋学院后门集合\n三亚学院南校区门口集合\n城市职业学院",
+    "set_time" : "10:40",
+    "start_date" : 1536422400,
+    "status" : 1,
+    "sum" : 8,
+    "tel" : 18217913520,
+    "term" : "2",
+    "type" : 0,
+    "user_count" : 7,
+    "user_id" : 937339492937633792,
+    "welfare" : [
+      "null"
+    ],
+    "welfare_name" : []
+  },
+  "message" : "操作成功",
+  "runtime" : 11
+}
